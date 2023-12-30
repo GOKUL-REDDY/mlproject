@@ -16,7 +16,7 @@ def get_requirements(file_path:str)->List[str]:
 
 setup(
     name='mlopsproject',
-    version='0.0.1',
+    version='0.0.2',
     author='GOKUL Reddy',
     author_email='gokulkrishna.talla@gmail.com',
     packages=find_packages(),
